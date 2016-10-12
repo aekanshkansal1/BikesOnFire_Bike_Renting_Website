@@ -1,4 +1,4 @@
-# bikesonfire
+# BikesOnFire Bike Renting Service
 Website for Bike Renting Services. Free to use non commercially informing the developer. Free to use commercially with consent of developer. Drop a mail at- aekanshkansal1@gmail.com
 
 Developed in MySQL, PHP, BootStrap, HTML, CSS, Javascript, JQuery
