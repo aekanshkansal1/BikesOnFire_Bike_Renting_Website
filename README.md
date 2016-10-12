@@ -5,13 +5,15 @@ Developed in MySQL, PHP, BootStrap, HTML, CSS, Javascript, JQuery
 
 Bugs will be resolved and updated as well as project will be extended to have more features continuously
 
-Working
+Working -
+
 The website works in two mode.
 User can login, sign up, View Bikes, Order Bikes and see orders. User can raise the query for admin also.
 Admin can manage bikes ie. dynamic bike management, see orders
 Uses tawk.to for chat
 
-Setting the project
+Setting the project-
+
 ->connect.inc.php file includes the connection information to database. change the parameters as per your database.
 
 ->sql.db stores the sql for the database in MySQL. import this directly in your MySQL database.The admin password is choosen at the time of creating database. Password are stored in md5. so in row password given is in md5.
