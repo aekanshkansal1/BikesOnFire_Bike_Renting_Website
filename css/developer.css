@@ -1,0 +1,54 @@
+body
+{
+//	border:2px solid black;
+	margin-bottom:0%;
+}
+#developers
+{
+	position:static;
+	margin-top:8%;
+	margin-bottom:2%;
+}
+.col-sm-12
+{
+	height:280px;
+	border:2px solid black;
+	margin-bottom: 2%;
+}
+.naam
+{
+	font-size: 1.4em;
+	margin:3% 0 0 22%;
+	color:#000;
+}
+.desig
+{
+	font-size: 1.2em;
+	margin:1.5% 0 0 22%;
+	color:#000;
+}
+#heading
+{
+	font-size:1.6em;
+	color:#000;
+}
+.image
+{
+	margin-top: 4%;
+	background-color:#000000;
+	width:200px;
+	height:200px;
+	float:left;
+	border-radius:100px;
+}
+.icon
+{
+	width:32px;
+	height:32px;
+}
+.devimg
+{
+	width:200px;
+	height:200px;
+	border-radius:100%;
+}

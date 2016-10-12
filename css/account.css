@@ -1,0 +1,46 @@
+body
+{
+	background-color:#845986;
+}
+#details
+{
+	margin:125px auto 20px auto;
+	width:70%;
+}
+#details td 
+{
+	padding:10px;
+}
+#details table 
+{
+	width:100%;
+}
+#details table td + td
+{
+	text-align:right;
+}
+#details table td + td input
+{
+	width:80%;
+}
+#details input[type="password"]
+{
+	width:86.5%;
+}
+#pform
+{
+	margin:0 0 50px 0;
+}
+#submitbtn
+{
+	background-color:#ffffff;
+	border:0;
+	height:30px;
+	min-width:150px;
+	font-size:1.2em;
+	margin:20px 40% 0 50%;
+}
+#submitbtn:hover
+{
+	box-shadow:0 16px 16px 0 rgba(0,0,0,0.3),0 10px 20px 0 rgba(0,0,0,0.3);
+}

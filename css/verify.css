@@ -1,0 +1,61 @@
+#securecode
+{
+	margin-top:200px;
+	background-color:#627D92;
+	//height:100px;
+	border:2px solid #627D92;
+	color:#ffffff;
+	min-width:200px;
+	margin-bottom:50px;
+}
+input
+{
+	border-radius:2px;
+	border:0;
+	line-height:2em;
+	color:#000000;
+}
+.container
+{
+	width:40%;
+	
+}
+#field
+{
+	//position:static;
+	width:70%;
+	margin:5% auto 0 auto;
+	border:2px solid #627D92;
+}	
+#buttonwrap
+{
+	width:20%;
+	min-width:100px;
+	margin:10px auto 0 auto;
+}
+#button
+{
+	background-color:#ffffff;
+	color:#000000;
+	border:0;
+	width:20%;
+	min-width:100px;
+	margin:10px auto 0 auto;
+}
+#resend a
+{
+	text-decoration:none;
+	color:#ffffff;
+}
+#resend
+{
+	width:200px;
+	margin:0 auto 20px auto;
+}
+@media screen and (max-width:610px)
+{
+	.footnote
+	{
+		position:static;
+	}
+}

@@ -1,0 +1,87 @@
+ 
+/*
++++++++++++++++++++++++++++++++++
++	css for the about us page	+
++								+
++++++++++++++++++++++++++++++++++
+*/
+.col-sm-6
+{
+	height:220px;
+	//overflow:hidden;
+}
+#enclosure1
+{
+	margin:0;
+	/*background-color:#845986;*/
+	background-color:#ffffff;
+
+}
+#enclosure2
+{
+	margin:0;
+	/*background-color:#ef5f3a;*/
+	background-color:#ffffff;
+}
+#enclosure3
+{
+	margin:0;
+	/*background-color:#14a085;*/
+	background-color:#ffffff;
+
+}
+#aboutus
+{
+	margin-top:140px;
+	padding-bottom:20px;
+	color:#000;
+}
+.naam
+{
+	font-size: 1.4em;
+	margin:5% 0 0 40%;
+	color:#000;
+}
+.desig
+{
+	font-size: 1.5em;
+	margin:1% 0 0 40%;
+	color:#000;
+}
+.image
+{
+	background-color:#000;
+	width:170px;
+	height:170px;
+	float:left;
+	border-radius:100%;
+}
+.setimg
+{
+	height:170px;
+	width:170px;
+	border-radius: 100%;
+}
+#heading
+{
+	font-size:1.6em;
+	color:#000;
+}
+#foundername
+{
+	width:100%;
+	color:#000;
+}
+#foundername td
+{
+	padding:10px;
+
+}
+#bigtext
+{
+	font-size: 1.2em;
+}
+#smalltext
+{
+	font-size: 1.1em;
+}

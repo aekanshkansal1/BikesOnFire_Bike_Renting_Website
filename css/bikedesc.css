@@ -1,0 +1,296 @@
+html
+{
+	height:100%;
+	box-sizing:border-box;
+}
+*,  
+*:before, 
+*:after {
+  box-sizing: inherit;
+}
+body
+{
+	//background-color:#989898;
+ 
+}
+.navbar-default
+{
+	height:70px;
+	background-color:#2F3238;
+	/* position:fixed;*/
+	 
+	border-width:0px;
+	border-radius:0px;
+	
+}
+.navbar-brand
+{
+	/*margin-top:-70px;*/
+}
+.link
+{
+	color:#ffffff !important;
+	font-size:1.2em;
+}
+.link:hover
+{
+	
+	color:#FF9C5F !important;
+	/*background-color:#ffffff !important;*/
+}
+#navigator
+{
+	background-color:#2F3238;
+	border:0;
+}
+
+/*css for error box*/
+
+/*#error
+{
+	width:40%;
+	height:100px;
+	background-color:#000000;
+	margin:100px auto 0 auto;
+	position:absolute;
+	left:30%;
+	
+}*/
+#error
+{
+	width:50%;
+	position:absolute;
+	height:35px;
+	right:25%;
+	bottom:75%;
+	font-size: 18px;
+	text-align: center;
+	color:#fff;
+	line-height: 35px;
+	border:1px solid black;
+	color:black;
+
+}
+
+/*css for bike image*/
+
+ #all
+{
+	//background-color:#ffffff;
+	width:90%;
+	margin:125px 25% 20px 20%;
+	height:auto;
+	padding:10px;
+}
+#littleall
+{
+	//border:1px solid #000000;
+	border-radius:2px;
+	width:100%;
+	height:auto;
+	margin:0 auto 0 auto;
+	//position:absolute;
+	//background-color:#000000;
+}
+#img img
+{
+	border:2px solid #000000;
+	width:100%;
+	height:auto;
+	margin:0px 0 auto 0;
+	float:left;
+}
+#desc
+{
+	font-size:1.1em;
+	width:150%;
+	margin:15px 15px 0 0;
+	//color:#ffffff;
+	 
+}
+#num
+{
+	padding:10px;
+}
+#num input
+{
+	width:40%;
+	max-width:200px;
+	margin-left:10%;
+}
+#date
+{
+	padding:10px;
+}
+#date input
+{
+	width:40%;
+	max-width:200px;
+	margin-left:10%;
+}
+.col-sm-6
+{
+	padding-right:20px;
+	max-width:300px;
+	//max-height:300px;
+}
+label
+{
+	//color:#ffffff;
+}
+#rent
+{
+	//width:20%;
+	font-size:1.3em;
+	color:#ffffff;
+	background-color:#f16a70;
+	//margin:20px auto 0 auto;
+	//border:2px solid #000000;
+	text-align:center;
+	padding:10px;
+	border:0;
+}
+#rent a
+{
+	text-decoration:none;
+	 
+}
+#rentNcost td
+{
+	padding:10px;
+}
+#link
+{
+	text-decoration:none;
+}
+ #cost
+{
+	font-size:1.3em;
+	 color:#ffffff;
+	//background-color:8cdcda;
+	//margin:30px auto 0 auto;
+	padding:10px;
+	text-align:center;
+} 
+ #costday
+{
+	//width:80%;
+	//max-width:190px;
+	font-size:1.3em;
+	 color:#ffffff;
+	background-color:8cdcda;
+	//margin:30px auto 0 auto;
+	padding:10px;
+	max-height:45px;
+	min-width:200px;
+
+} 
+/*css for footer*/
+
+.social
+{
+	margin:0 auto;
+	max-width:300px;
+	padding:20px 0 50px 0;
+}
+.social ul
+{
+	list-style-type:none;
+	
+}
+.social li
+{
+	display:inline;
+	padding-right:20px;
+	
+}
+.footnote
+{
+	color:#ffffff;
+	background-color:#000000;
+	width:100% !important;
+	 padding:0;
+	//position:absolute; 
+	right: 0;
+	bottom: 0;
+	left: 0;
+	//z-index:-10;
+}
+#note
+{
+	text-align:center;
+	font-size:0.7em;
+}
+@media screen and (max-width:768px)
+{
+	.footnote
+	{
+		position:static;
+	}
+}
+/*css for email and phone area*/
+
+#mailNphone
+{
+	margin:100px 0 0 0;
+}
+#fleft
+{
+	float:left;
+	width:50%;
+	overflow:hidden;
+	 
+}
+#fright
+{
+	float:left;
+	width:50%;
+	overflow:hidden;
+	line-height:10px;
+}
+#toright
+{
+	float:right;
+} 
+
+/*css for central query or feedback submission form*/
+
+
+/*{
+	width:50%;
+	margin:0 auto 0 auto; 
+	background-color:#8cdcda;
+}*/
+#ctable
+{
+	background-color:#8cdcda;
+	width:40%;
+	margin:100px auto 0 auto; 
+	
+}
+input
+{
+	width:100%;
+}
+#ctable td
+{
+	padding:10px;
+}
+
+#submit
+{
+	font-size:1.5em;
+	color:#ffffff;
+	background-color:#fcc02a;
+	padding:2px;
+	width:150px;
+	margin:20px auto 10px 40%;
+	border:0;
+}
+#submit:hover
+{
+	box-shadow:0 24px 24px 0 rgba(0,0,0,0.2),0 40px 77px 0 rgba(0,0,0,0.22);
+}
+
+
+

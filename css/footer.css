@@ -1,0 +1,46 @@
+.social {
+
+	margin:0 auto;
+	max-width:300px;
+	padding:20px 0 50px 0;
+}
+.social ul
+{
+	list-style-type:none;
+	
+}
+.social li
+{ 
+	display:inline;
+	padding-right:20px;
+	
+}
+.footnote
+{
+	color:#ffffff;
+	background-color:#000000;
+	width:100% !important;
+	 padding:0;
+	position:absolute; 
+	right: 0;
+	bottom: 0; 
+	left: 0;
+	//z-index:-10;
+}
+#note
+{
+	text-align:center;
+	font-size:0.7em;
+}
+@media screen and (max-width:768px)
+{
+	.footnote
+	{
+		position:static;
+	}
+}
+#developer
+{
+	text-decoration:none;
+	color:#ffffff;
+}

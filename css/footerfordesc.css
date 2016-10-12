@@ -1,0 +1,18 @@
+.footnote
+{
+	 
+	position:absolute; 
+	 
+}
+@media screen and (max-width:768px)
+{
+	.footnote
+	{
+		position:static;
+	}
+}
+#developer
+{
+	text-decoration:none;
+	color:#ffffff;
+}

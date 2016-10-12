@@ -1,0 +1,46 @@
+#toppsp
+{
+	margin-top: 120px;	
+}
+#botmsp
+{
+	margin-bottom: 30px;
+}
+#myorders
+{
+	margin:50px auto 0 auto;
+	border:1px solid #D0D0D0;
+	padding:5px;
+	width:60%;
+
+}
+#topic
+{
+	font-size:1.5em;
+	border-bottom:5px solid #D0D0D0;
+	width:80px;
+	color:#D71F24;
+}
+#bookedon
+{
+	border-bottom:1px solid #D0D0D0;
+	margin-bottom:10px;
+}
+#numdays1
+{
+	margin-left:17%;
+}
+#name1
+{
+	border-top: 2px solid #D0D0D0;
+	margin-top:10px;
+}
+#lnk
+{
+	margin-left:20px;
+}
+#linking
+{
+	width:60%;
+	margin:0 10% 0 25%;
+}
